@@ -8,6 +8,16 @@ A curated list of seminal works of Science and Mathematics in their original or 
 <br><b>― Isaac Newton letter to Robert Hooke, 1675 </b>
 </blockquote>
 
+## Contents
+
+- [Isacc Newton](#isacc-newton)
+
+
+## Isacc Newton
+
+- [Mathematical Principles of Natural Philosophy](https://archive.org/details/newtonspmathema00newtrich/)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
