@@ -10,6 +10,7 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 ## Contents
 
+- [Gerolamo Cardano](#gerolamo-cardano)
 - [Nicolaus Copernicus](#nicolaus-copernicus)
 - [Leonhard Euler](#leonhard-euler)
 - [Joseph Fourier](#joseph-fourier)
@@ -18,6 +19,10 @@ A curated list of seminal works of Science and Mathematics in their original or 
 - [Dennis Ritchie](#dennis-ritchie)
 - [Ken Thompson](#ken-thompson)
 - [Alan Turing](#alan-turing)
+
+## [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano)
+
+- [Ars Magna (The Great Art)](http://worldlibrary.org/articles/eng/Ars_Magna_(Gerolamo_Cardano))
 
 ## [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
 
