@@ -12,6 +12,7 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 - [Isacc Newton](#isacc-newton)
 - [Dennis Ritchie](#dennis-ritchie)
+- [Ken Thompson](#ken-thompson)
 
 ## [Isacc Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
 
@@ -21,6 +22,11 @@ A curated list of seminal works of Science and Mathematics in their original or 
 ## [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- [Unix](https://en.wikipedia.org/wiki/Unix)
+
+## [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+
+- [Go](https://golang.org)
 - [Unix](https://en.wikipedia.org/wiki/Unix)
 
 ## Contribute
