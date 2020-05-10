@@ -10,12 +10,18 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 ## Contents
 
+- [Leonhard Euler](#leonhard-euler)
 - [Joseph Fourier](#joseph-fourier)
 - [Gottfried Wilhelm Leibniz](#gottfried-wilhelm-leibniz)
 - [Isacc Newton](#isacc-newton)
 - [Dennis Ritchie](#dennis-ritchie)
 - [Ken Thompson](#ken-thompson)
 - [Alan Turing](#alan-turing)
+
+## [Leonhard Euler](https://en.wikipedia.org/wiki/Joseph_Fourier)
+
+- [Introductio in analysin infinitorum, volume 1](http://eulerarchive.maa.org/pages/E101.html)
+- [Introductio in analysin infinitorum, volume 2](http://eulerarchive.maa.org/pages/E102.html)
 
 ## [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier)
 
