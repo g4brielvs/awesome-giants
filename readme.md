@@ -11,6 +11,7 @@ A curated list of seminal works of Science and Mathematics in their original or 
 ## Contents
 
 - [Joseph Fourier](#joseph-fourier)
+- [Gottfried Wilhelm Leibniz](#gottfried-wilhelm-leibniz)
 - [Isacc Newton](#isacc-newton)
 - [Dennis Ritchie](#dennis-ritchie)
 - [Ken Thompson](#ken-thompson)
@@ -20,10 +21,15 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 - [Théorie Analytique de la Chaleur](https://books.google.com/books/about/Th%C3%A9orie_analytique_de_la_chaleur.html?id=1TUVAAAAQAAJ)
 
+
+## [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
+
+- [Nova Methodus pro Maximis et Minimis](https://www.maa.org/book/export/html/641727)
+- [De geometria recondite et analysi indivisibilium atque infinitorum](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus)
+
 ## [Isacc Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
 
 - [Mathematical Principles of Natural Philosophy](https://archive.org/details/newtonspmathema00newtrich)
-
 
 ## [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
