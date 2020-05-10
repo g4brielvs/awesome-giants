@@ -10,9 +10,14 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 ## Contents
 
+- [Joseph Fourier](#joseph-fourier)
 - [Isacc Newton](#isacc-newton)
 - [Dennis Ritchie](#dennis-ritchie)
 - [Ken Thompson](#ken-thompson)
+
+## [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier)
+
+- [Théorie Analytique de la Chaleur](https://books.google.com/books/about/Th%C3%A9orie_analytique_de_la_chaleur.html?id=1TUVAAAAQAAJ)
 
 ## [Isacc Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
 
