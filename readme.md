@@ -10,6 +10,7 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 ## Contents
 
+- [Nicolaus Copernicus](#nicolaus-copernicus)
 - [Leonhard Euler](#leonhard-euler)
 - [Joseph Fourier](#joseph-fourier)
 - [Gottfried Wilhelm Leibniz](#gottfried-wilhelm-leibniz)
@@ -18,7 +19,11 @@ A curated list of seminal works of Science and Mathematics in their original or 
 - [Ken Thompson](#ken-thompson)
 - [Alan Turing](#alan-turing)
 
-## [Leonhard Euler](https://en.wikipedia.org/wiki/Joseph_Fourier)
+## [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
+
+- [De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)]([http://worldlibrary.org/Articles/De%20revolutionibus%20orbium%20coelestium)
+
+## [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler)
 
 - [Introductio in analysin infinitorum, volume 1](http://eulerarchive.maa.org/pages/E101.html)
 - [Introductio in analysin infinitorum, volume 2](http://eulerarchive.maa.org/pages/E102.html)
