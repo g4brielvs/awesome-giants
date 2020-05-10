@@ -11,12 +11,17 @@ A curated list of seminal works of Science and Mathematics in their original or 
 ## Contents
 
 - [Isacc Newton](#isacc-newton)
+- [Dennis Ritchie](#dennis-ritchie)
+
+## [Isacc Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
+
+- [Mathematical Principles of Natural Philosophy](https://archive.org/details/newtonspmathema00newtrich)
 
 
-## Isacc Newton
+## [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
-- [Mathematical Principles of Natural Philosophy](https://archive.org/details/newtonspmathema00newtrich/)
-
+- [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- [Unix](https://en.wikipedia.org/wiki/Unix)
 
 ## Contribute
 
