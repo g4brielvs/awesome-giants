@@ -14,6 +14,7 @@ A curated list of seminal works of Science and Mathematics in their original or 
 - [Isacc Newton](#isacc-newton)
 - [Dennis Ritchie](#dennis-ritchie)
 - [Ken Thompson](#ken-thompson)
+- [Alan Turing](#alan-turing)
 
 ## [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier)
 
@@ -33,6 +34,10 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 - [Go](https://golang.org)
 - [Unix](https://en.wikipedia.org/wiki/Unix)
+
+## [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+
+- [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
 
 ## Contribute
 
