@@ -30,22 +30,22 @@ A curated list of seminal works of Science and Mathematics in their original or 
 
 ## [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler)
 
-- [Introductio in analysin infinitorum, volume 1](http://eulerarchive.maa.org/pages/E101.html)
-- [Introductio in analysin infinitorum, volume 2](http://eulerarchive.maa.org/pages/E102.html)
+- [Introductio in analysin infinitorum (Introduction to the Analysis of the Infinite), volume 1](http://eulerarchive.maa.org/pages/E101.html)
+- [Introductio in analysin infinitorum (Introduction to the Analysis of the Infinite), volume 2](http://eulerarchive.maa.org/pages/E102.html)
 
 ## [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier)
 
-- [Théorie Analytique de la Chaleur](https://books.google.com/books/about/Th%C3%A9orie_analytique_de_la_chaleur.html?id=1TUVAAAAQAAJ)
+- [Théorie Analytique de la Chaleur (The Analytical Theory of Heat)](https://books.google.com/books/about/Th%C3%A9orie_analytique_de_la_chaleur.html?id=1TUVAAAAQAAJ)
 
 
 ## [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
 
-- [Nova Methodus pro Maximis et Minimis](https://www.maa.org/book/export/html/641727)
-- [De geometria recondite et analysi indivisibilium atque infinitorum](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus)
+- [Nova Methodus pro Maximis et Minimis (A new method for maxima and minima)](https://www.maa.org/book/export/html/641727)
+- [De geometria recondite et analysi indivisibilium atque infinitorum (On a hidden geometry and analysis of indivisibles and infinite)](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus)
 
 ## [Isacc Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
 
-- [Mathematical Principles of Natural Philosophy](https://archive.org/details/newtonspmathema00newtrich)
+- [Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy)](https://archive.org/details/newtonspmathema00newtrich)
 
 ## [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
