@@ -20,13 +20,15 @@ A curated list of seminal works of Science and Mathematics in their original or 
 - [Ken Thompson](#ken-thompson)
 - [Alan Turing](#alan-turing)
 
+---
+
 ## [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano)
 
 - [Ars Magna (The Great Art)](http://worldlibrary.org/articles/eng/Ars_Magna_(Gerolamo_Cardano))
 
 ## [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
 
-- [De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)]([http://worldlibrary.org/Articles/De%20revolutionibus%20orbium%20coelestium)
+- [De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)](http://worldlibrary.org/Articles/De%20revolutionibus%20orbium%20coelestium)
 
 ## [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler)
 
